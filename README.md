@@ -4,7 +4,7 @@ Visualização estratégica de indicadores financeiros e fluxo de caixa
 para suporte à tomada de decisão.
 
 ![Dashboard Preview](assets/preview3.png)
-<br>
+<br><br>
 ![Dashboard Preview](assets/preview4.png)
 ---
 
